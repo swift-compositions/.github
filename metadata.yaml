@@ -1,4 +1,4 @@
-# swift-foundations org-level metadata.
+# swift-compositions org-level metadata.
 #
 # Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
 
@@ -10,16 +10,16 @@ socialPreview:
     from: "#EFC868"   # gold gradient top
     to: "#C99932"     # gold gradient bottom
     text: "#8A6410"   # caption ink — 5.08:1 on #FBF8F6 (WCAG AA large-text needs 3:1)
-  caption: "FOUNDATIONS"
+  caption: "COMPOSITIONS"
 readme:
   family: G
 
 # Org-account profile fields (display name, description, email, website, X, location).
 # Applied via `gh api -X PATCH /orgs/<org>`; no org-level sync workflow exists yet.
 org:
-  name: "Swift Foundations"
-  description: "Composed Swift building blocks for production systems — Layer 3 of the Swift Institute ecosystem."
+  name: "Swift Compositions"
+  description: "Composed Swift building blocks for production systems — Layer 4 of the Swift Institute ecosystem."
   email: "coen@coenttb.com"
-  blog: "https://swift-institute.org"
+  blog: "https://github.com/swift-institute"
   twitter: "coenttb"
   location: "Netherlands"

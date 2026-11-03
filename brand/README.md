@@ -1,6 +1,6 @@
 # Brand
 
-The swift-foundations mark: the Swift Institute four-bar pyramid (80/160/240/320 bar
+The swift-compositions mark: the Swift Institute four-bar pyramid (80/160/240/320 bar
 widths, the same geometry as the social-card glyph in
 swift-institute/.github `social-preview/glyph-pyramid.svg`) on the warm-white
 ground `#fbf8f6`, with this org's accent: gold #e1b659 → #a3822d (base bar).
