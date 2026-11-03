@@ -23,3 +23,13 @@ org:
   blog: "https://github.com/swift-institute"
   twitter: "coenttb"
   location: "Netherlands"
+
+brand:
+  mark: "Swift Institute four-bar pyramid: bar widths 80/160/240/320, the geometry of swift-institute/.github social-preview/glyph-pyramid.svg"
+  ground: "#fbf8f6"
+  accent:            # gold, on the base bar
+    from: "#e1b659"
+    to: "#a3822d"
+  avatar:
+    source: brand/avatar.svg
+    upload: brand/avatar-1024.png   # the GitHub org-avatar uploader takes raster only
